@@ -14,7 +14,7 @@ class App extends React.Component {
 
   render() {
     const {tasks} = this.state;
-    console.log(tasks);
+    // console.log(tasks);
     return (
       <div className="App">
         <h1>Welcome Sravya</h1>
